@@ -6,4 +6,7 @@ Hi there 👋
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoniovini47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniovini47&repo=PetPlanet&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.instagram.com/antoniovini47/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/antoniovini47/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
