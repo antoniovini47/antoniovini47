@@ -7,6 +7,9 @@ Hi there 👋
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniovini47&repo=PetPlanet&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+<div align="center">  
 <a href="https://www.instagram.com/antoniovini47/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/antoniovini47/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
