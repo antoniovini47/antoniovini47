@@ -21,7 +21,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 </p>
-</div>
    
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@antoniovini47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -30,10 +29,6 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniovini47&repo=GeradorDeCPF-Python-API-4Devs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniovini47&repo=GeradorDeDadosPessoais-Python-API-4Devs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-<div align="center">
 👤 Profiles <br>
 <a href="https://www.linkedin.com/in/antoniovini47/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
