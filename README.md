@@ -15,8 +15,8 @@
 
 <p align="center"> 
 
-![Flutter](https://img.shields.io/badge/-Flutter-white?style=flat-square&logo=flutter)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
