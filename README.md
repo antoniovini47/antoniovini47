@@ -5,14 +5,14 @@
 
 <div align="center">
   <br>
-  <a href="https://www.linkedin.com/in/antoniovini47/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/antoniovini47/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>  
+  <a href="https://www.buymeacoffee.com/antoniovini47"> ![Buy Me a Coffe](https://img.shields.io/badge/-Buy_Me_a_Coffe-yellow?style=flat-square&logo=buymeacoffee) </a>
   <br>
 </div>
 
-<p align="center"> 
+<p align="center">   
 <br>🌐 Web Development
   
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
