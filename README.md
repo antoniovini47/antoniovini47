@@ -10,7 +10,7 @@
    
   
   
-  <a href="https://www.buymeacoffee.com/antoniovini47">![Buy Me a Coffe](https://img.shields.io/badge/-Buy_Me_a_Coffe-yellow?style=flat-square&logo=buymeacoffee&logoColor=black&textColor=black)</a>
+  <a href="https://www.buymeacoffee.com/antoniovini47">![Buy Me a Coffe](https://img.shields.io/badge/-Buy_Me_a_Coffe-yellow?style=flat-square&logo=buymeacoffee&logoColor=black)</a>
   <br>
 </div>
 
