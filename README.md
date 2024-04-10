@@ -19,7 +19,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
 
-<br>📱 Android Development
+<br>📱 Mobile Development
 
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=coffeescript)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
