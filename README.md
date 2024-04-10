@@ -3,7 +3,7 @@
 
   
 <div align="center">
-👤 Social Media: 
+👤 Social Media: <br>
  
   <a href="https://www.linkedin.com/in/antoniovini47">
     
