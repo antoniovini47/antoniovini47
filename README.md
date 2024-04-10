@@ -8,10 +8,9 @@
   <a href="https://www.linkedin.com/in/antoniovini47/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   <br>
 </div>
-  <br>  ⚡ Technologies<br>
 
 <p align="center"> 
-<br>Web Development:
+<br>🌐 Web Development:
   
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)
@@ -20,7 +19,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
 
-<br>Android Development:
+<br>📱 Android Development:
 
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=coffeescript)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
@@ -33,6 +32,7 @@
 
 <br>Others:
 
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-darkblue?style=flat-square&logo=visual-studio-code&logoColor=#3DDC84)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
