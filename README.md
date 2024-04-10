@@ -16,6 +16,7 @@
 <p align="center"> 
 
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
