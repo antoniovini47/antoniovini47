@@ -11,7 +11,7 @@
   ![Buy Me a Coffe](https://img.shields.io/badge/-Buy_Me_a_Coffe-yellow?style=flat-square&logo=buymeacoffee&logoColor=black)</a>
 </div>
 <p align="center">   
-<br>🌐 Web Development
+🌐 Web Development
   
 ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
