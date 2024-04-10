@@ -16,6 +16,7 @@
 <p align="center"> 
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)
