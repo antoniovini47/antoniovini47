@@ -3,7 +3,7 @@
 
   
 <div align="center">
-👤 Social Media: <br><br>
+👤 Social Media <br><br>
  
   <a href="https://www.linkedin.com/in/antoniovini47">
     
@@ -14,7 +14,7 @@
   ![Buy Me a Coffe](https://img.shields.io/badge/-Buy_Me_a_Coffe-yellow?style=flat-square&logo=buymeacoffee&logoColor=black)</a>
 </div>
 <p align="center">   
-🌐 Web Development: 
+🌐 Web Development 
   
   ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django) 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
@@ -28,7 +28,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)
 
-💾 Database:
+💾 Database
 
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sqlite)
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase)
