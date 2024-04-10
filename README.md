@@ -4,8 +4,11 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniovini47&hide=contribs&show_icons=true&theme=dark&rank_icon=percentile&line_height=29)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniovini47&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/antoniovini47">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)</a>
-  <a href="https://www.buymeacoffee.com/antoniovini47">![Buy Me a Coffe](https://img.shields.io/badge/-Buy_Me_a_Coffe-yellow?style=flat-square&logo=buymeacoffee&logoColor=black)</a>
+  <a href="https://www.linkedin.com/in/antoniovini47">
+    
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.buymeacoffee.com/antoniovini47">
+  ![Buy Me a Coffe](https://img.shields.io/badge/-Buy_Me_a_Coffe-yellow?style=flat-square&logo=buymeacoffee&logoColor=black)</a>
 </div>
 <p align="center">   
 <br>🌐 Web Development
