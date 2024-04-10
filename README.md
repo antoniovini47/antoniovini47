@@ -19,18 +19,18 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
 
-<br>📱 Mobile Development
+📱 Mobile Development
 
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=coffeescript)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)
 
-<br>💾 Database:
+💾 Database:
 
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sqlite)
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase)
 
-<br>💻 Others
+💻 Others
 
 ![Play Store](https://img.shields.io/badge/-Play_Store_Management-black?style=flat-square&logo=googleplay&logoColor=red)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-darkblue?style=flat-square&logo=androidstudio&logoColor=green)
