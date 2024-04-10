@@ -15,12 +15,12 @@
 
 <p align="center"> 
 
+![Flutter](https://img.shields.io/badge/-Flutter-white?style=flat-square&logo=flutter)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PlayStore](https://img.shields.io/badge/-PlayStore-white?style=flat-square&logo=#414141)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
