@@ -5,9 +5,9 @@
 <div align="center">
 👤 Social Media <br><br>
  
-  <a href="https://www.linkedin.com/in/antoniovini47">
+  
     
-  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/antoniovini47">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)</a>
   <a href="https://wakatime.com/@antoniovini47">
   ![Waka Time](https://img.shields.io/badge/-WakaTime-white?style=flat-square&logo=wakatime&logoColor=black)</a>
   <a href="https://www.buymeacoffee.com/antoniovini47">
