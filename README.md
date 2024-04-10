@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/antoniovini47/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   <br>
 </div>
-  <br><br>  ⚡ Technologies
+  <br>  ⚡ Technologies<br>
 
 <p align="center"> 
 
@@ -25,7 +25,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-</p>
+</p><br>
    
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@antoniovini47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
