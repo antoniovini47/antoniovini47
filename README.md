@@ -32,8 +32,9 @@
 
 <br>Others:
 
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-darkblue?style=flat-square&logo=androidstudio&logoColor=green)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-darkblue?style=flat-square&logo=androidstudio&logoColor=green)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Play Store](https://img.shields.io/badge/-Play_Store-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 </p><br>
