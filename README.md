@@ -1,6 +1,9 @@
 <div align="center">
 <H1>Hi there, I'm Antonio Oliveira 👋</H1>
 
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniovini47&hide=contribs&show_icons=true&theme=dark&rank_icon=percentile&line_height=29)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniovini47&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
 <div align="center">
 👤 Social Media <br><br>
@@ -41,9 +44,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 </p><br>
-
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniovini47&hide=contribs&show_icons=true&theme=dark&rank_icon=percentile&line_height=29)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniovini47&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
    
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@antoniovini47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
