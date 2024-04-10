@@ -2,16 +2,8 @@
 <H1>Hi there 👋</H1>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniovini47&hide=contribs&show_icons=true&theme=dark&rank_icon=percentile&line_height=29)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniovini47&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@antoniovini47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniovini47&repo=PetPlanet&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniovini47&repo=GeradorDeCPF-Python-API-4Devs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniovini47&repo=GeradorDeDadosPessoais-Python-API-4Devs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### ⚡ Technologies
+  ### ⚡ Technologies
 
 <p align="center"> 
 
@@ -30,6 +22,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 </p>
 </div>
+   
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@antoniovini47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniovini47&repo=PetPlanet&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniovini47&repo=GeradorDeCPF-Python-API-4Devs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniovini47&repo=GeradorDeDadosPessoais-Python-API-4Devs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <div align="center">
 👤 Profiles <br>
