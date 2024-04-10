@@ -1,7 +1,6 @@
 <div align="center">
 <H1>Hi there, I'm Antonio Oliveira 👋</H1>
-👤 Social Media:
-
+👤 Social Media: 
   
 <div align="center">
 
