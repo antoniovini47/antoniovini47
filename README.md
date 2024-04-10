@@ -1,9 +1,9 @@
 <div align="center">
 <H1>Hi there, I'm Antonio Oliveira 👋</H1>
-👤 Social Media: 
+
   
 <div align="center">
-
+👤 Social Media: 
  
   <a href="https://www.linkedin.com/in/antoniovini47">
     
