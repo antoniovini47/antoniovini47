@@ -7,6 +7,8 @@
   ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)</a>
   <a href="https://www.buymeacoffee.com/antoniovini47">
   ![Buy Me a Coffe](https://img.shields.io/badge/-Buy_Me_a_Coffe-yellow?style=flat-square&logo=buymeacoffee&logoColor=black)</a>
+  <a href="https://wakatime.com/@antoniovini47">
+  ![Waka Time](https://img.shields.io/badge/-WakaTime-white?style=flat-square&logo=wakatime&logoColor=black)</a>
 </div>
 <p align="center">   
 🌐 Web Development: 
