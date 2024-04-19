@@ -41,7 +41,7 @@
 💾 Database
 
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sqlite)
-![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase)
+![Firebase](https://img.shields.io/badge/-Firebase-gray?style=flat-square&logo=firebase)
 
 💻 Others
 
