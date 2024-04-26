@@ -44,7 +44,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sqlite)
 ![Firebase](https://img.shields.io/badge/-Firebase-gray?style=flat-square&logo=firebase)
 
-💻 Others
+💻 Tools
 
 ![Play Store](https://img.shields.io/badge/-Google_Play_Management-black?style=flat-square&logo=googleplay&logoColor=red)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue)
