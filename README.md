@@ -29,6 +29,7 @@
   ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white) 
   ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=blue)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) 
+  ![NestJS](https://img.shields.io/badge/-NestJS-white?style=flat-square&logo=nestjs&logoColor=red) 
   ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django) 
 
 📱 Mobile Development
