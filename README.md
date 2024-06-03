@@ -43,6 +43,7 @@
 💾 Database
 
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sqlite)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-FirebaseRTDB-gray?style=flat-square&logo=firebase)
 
 💻 Tools
