@@ -38,7 +38,7 @@
 ![Gradle](https://img.shields.io/badge/-Gradle-darkblue?style=flat-square&logo=gradle&logoColor=green)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)
-g](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=coffeescript)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=coffeescript)
 
 💾 Database
 
