@@ -5,6 +5,7 @@
  
     
   <a href="https://www.linkedin.com/in/antoniovini47">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)</a>
+   <a href="mailto:antonio@rotec.dev">![Gmail](https://img.shields.io/badge/-Email-white?style=flat-square&logo=Gmail&logoColor=red)</a>
   <a href="https://www.buymeacoffee.com/antoniovini47">
   ![Buy Me a Coffe](https://img.shields.io/badge/-Buy_Me_a_Coffe-yellow?style=flat-square&logo=buymeacoffee&logoColor=black)</a>
   <a href="https://wakatime.com/@antoniovini47">[![wakatime](https://wakatime.com/badge/user/018e999d-900d-48a7-aaa9-247a9ea19e00.svg)](https://wakatime.com/@018e999d-900d-48a7-aaa9-247a9ea19e00)</a>
