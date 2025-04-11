@@ -17,11 +17,10 @@
 📱 Main Stacks - Mobile Development
 
 
-![ReactNative](https://img.shields.io/badge/-ReactNative-white?style=flat-square&logo=react&logoColor=blue)
+![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) 
-![Android](https://img.shields.io/badge/-Android-darkblue?style=flat-square&logo=android&logoColor=green)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=coffeescript)
-![Gradle](https://img.shields.io/badge/-Gradle-darkblue?style=flat-square&logo=gradle&logoColor=green)
+![Next.JS](https://img.shields.io/badge/-Next.JS-black?style=flat-square&logo=Next.js&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-white?style=flat-square&logo=tailwindcss&logoColor=teal) 
 
 <br>
 
@@ -35,6 +34,10 @@
   
 🌐 Other Technologies
 
+![ReactNative](https://img.shields.io/badge/-ReactNative-white?style=flat-square&logo=react&logoColor=blue)
+![Android](https://img.shields.io/badge/-Android-darkblue?style=flat-square&logo=android&logoColor=green)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=coffeescript)
+![Gradle](https://img.shields.io/badge/-Gradle-darkblue?style=flat-square&logo=gradle&logoColor=green)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
