@@ -18,8 +18,8 @@
 
 
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=blue)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) 
 ![Next.JS](https://img.shields.io/badge/-Next.JS-black?style=flat-square&logo=Next.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-white?style=flat-square&logo=tailwindcss&logoColor=teal) 
 
 <br>
