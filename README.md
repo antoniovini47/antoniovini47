@@ -30,7 +30,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-white?style=flat-square&logo=nestjs&logoColor=red) 
 ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django) 
 
-💻 Tools
+🔧 Tools
 
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
