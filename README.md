@@ -13,7 +13,7 @@
   
 <p align="center">   
 
-📱 Main Stacks - Web Development - Frontend
+💻 Main Stacks - Web Development - Frontend
 
 
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=blue)
