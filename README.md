@@ -1,7 +1,6 @@
 <div align="center">
 <H1>Hi there, I'm Antonio Oliveira 👋</H1>
 <div align="center">
-👤 Social Media <br><br>
 
 <a href="https://wakatime.com/@antoniovini47">[![wakatime](https://wakatime.com/badge/user/018e999d-900d-48a7-aaa9-247a9ea19e00.svg)](https://wakatime.com/@018e999d-900d-48a7-aaa9-247a9ea19e00)</a>
 
