@@ -21,7 +21,6 @@
 ![Next.JS](https://img.shields.io/badge/-Next.JS-black?style=flat-square&logo=Next.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-white?style=flat-square&logo=tailwindcss&logoColor=teal) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3) 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white) 
@@ -55,7 +54,6 @@
 
 💻 Tools
 
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-darkblue?style=flat-square&logo=androidstudio&logoColor=green)
 ![Play Store](https://img.shields.io/badge/-Google_Play_Management-black?style=flat-square&logo=googleplay&logoColor=red)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue)
