@@ -12,7 +12,6 @@ Software engineer working full stack, mostly in TypeScript. React and Next.js on
 - [Hágua](https://hagua.museudasaguasbrasileiras.org): search hub for Brazilian water bodies. It indexes 104k rivers, lakes and reservoirs and pulls data from five public sources live. Next.js, Drizzle, PostgreSQL.
 - [Live Code Interviewer](https://github.com/antoniovini47/live-code-interviewer): live coding interviews with code synced in real time. First place at the SuperViz Hackathon 2.0.
 - [Cartada](https://github.com/antoniovini47/cartada-planning-poker): planning poker from a shared link, with no sign-up and no backend.
-- [Women Water Future](https://womenwaterfuture.org): website for an official side event of the 2026 UN Water Conference.
 - [Bluetooth Low Energy with React Native](https://github.com/antoniovini47/bluetooth-low-energy-react-native): a working BLE example for React Native.
 
 ## Stack
