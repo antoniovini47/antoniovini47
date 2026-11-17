@@ -1,41 +1,32 @@
-<div align="center">
-<H1>Hi there, I'm Antonio Oliveira 👋</H1>
-<div align="center">
+# Hi, I'm Antonio Oliveira
 
-<a href="https://wakatime.com/@antoniovini47">[![wakatime](https://wakatime.com/badge/user/018e999d-900d-48a7-aaa9-247a9ea19e00.svg)](https://wakatime.com/@018e999d-900d-48a7-aaa9-247a9ea19e00)</a>
+Software engineer working full stack, mostly in TypeScript. I started on frontend and mobile and moved into backend work, which now takes a good part of my week.
 
-  <a href="https://www.linkedin.com/in/antoniovini47">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)</a>
-   <a href="mailto:antonio@rotec.dev">![Gmail](https://img.shields.io/badge/-Email-white?style=flat-square&logo=Gmail&logoColor=red)</a>
-  <a href="https://www.buymeacoffee.com/antoniovini47">
-  ![Buy Me a Coffe](https://img.shields.io/badge/-Buy_Me_a_Coffe-yellow?style=flat-square&logo=buymeacoffee&logoColor=black)</a>
-  
-</div>
-  
-<p align="center">   
+At Medprev, a healthcare marketplace in Brazil, I work across the whole product, from the web app to the APIs and the database behind it. Before that I ran a small consultancy building web and mobile products for clients, and earlier I published my own mobile apps on Google Play, which passed 1M downloads.
 
-💻 Main Stacks - Web Development - Frontend
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniovini47)
+[![Email](https://img.shields.io/badge/-Email-white?style=flat-square&logo=Gmail&logoColor=red)](mailto:antonio@rotec.dev)
+[![wakatime](https://wakatime.com/badge/user/018e999d-900d-48a7-aaa9-247a9ea19e00.svg)](https://wakatime.com/@018e999d-900d-48a7-aaa9-247a9ea19e00)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/antoniovini47)
 
+## Things I've built
 
-![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=blue)
-![Next.JS](https://img.shields.io/badge/-Next.JS-black?style=flat-square&logo=Next.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white) 
-  
-📱 Secondary Stacks - Mobile & Backend
+- [Hágua](https://hagua.museudasaguasbrasileiras.org): search hub for Brazilian water bodies. It indexes 104k rivers, lakes and reservoirs and pulls data from five public sources live. Next.js, Drizzle, PostgreSQL.
+- [Live Code Interviewer](https://github.com/antoniovini47/live-code-interviewer): live coding interviews with code synced in real time. First place at the SuperViz Hackathon 2.0.
+- [Cartada](https://github.com/antoniovini47/cartada-planning-poker): planning poker from a shared link, with no sign-up and no backend.
+- [Women Water Future](https://womenwaterfuture.org): website for an official side event of the 2026 UN Water Conference.
+- [Bluetooth Low Energy with React Native](https://github.com/antoniovini47/bluetooth-low-energy-react-native): a working BLE example for React Native.
 
-![ReactNative](https://img.shields.io/badge/-ReactNative-white?style=flat-square&logo=react&logoColor=blue)
-![Android](https://img.shields.io/badge/-Android-darkblue?style=flat-square&logo=android&logoColor=green)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=coffeescript)
-![NestJS](https://img.shields.io/badge/-NestJS-white?style=flat-square&logo=nestjs&logoColor=red) 
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django) 
+## Stack
 
-🔧 Tools
-
-![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-</p><br>
-
-
-  </div>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
