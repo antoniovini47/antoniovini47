@@ -1,8 +1,6 @@
 # Hi, I'm Antonio Oliveira
 
-Software engineer working full stack, mostly in TypeScript. I started on frontend and mobile and moved into backend work, which now takes a good part of my week.
-
-At Medprev, a healthcare marketplace in Brazil, I work across the whole product, from the web app to the APIs and the database behind it. Before that I ran a small consultancy building web and mobile products for clients, and earlier I published my own mobile apps on Google Play, which passed 1M downloads.
+Software engineer working full stack, mostly in TypeScript. React and Next.js on the frontend, Node.js, NestJS and Go on the backend, PostgreSQL for data, and React Native for mobile.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniovini47)
 [![Email](https://img.shields.io/badge/-Email-white?style=flat-square&logo=Gmail&logoColor=red)](mailto:antonio@rotec.dev)
